@@ -1,10 +1,10 @@
 {
 	"name": "misskey",
-	"version": "2024.8.0",
+	"version": "2024.8.0-peltier",
 	"codename": "nasubi",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/misskey-dev/misskey.git"
+		"url": "https://github.com/p5r-dev/misskey-peltier.git"
 	},
 	"packageManager": "pnpm@9.6.0",
 	"workspaces": [
