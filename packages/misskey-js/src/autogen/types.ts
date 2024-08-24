@@ -4887,9 +4887,9 @@ export type components = {
       description: string | null;
       langs: string[];
       tosUrl: string | null;
-      /** @default https://github.com/misskey-dev/misskey */
+      /** @default https://github.com/p5r-dev/misskey-peltier */
       repositoryUrl: string | null;
-      /** @default https://github.com/misskey-dev/misskey/issues/new */
+      /** @default https://github.com/p5r-dev/misskey-peltier/issues/new */
       feedbackUrl: string | null;
       defaultDarkTheme: string | null;
       defaultLightTheme: string | null;
