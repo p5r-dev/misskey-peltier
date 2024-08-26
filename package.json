@@ -1,7 +1,8 @@
 {
 	"name": "misskey",
-	"version": "2024.8.0-peltier",
-	"codename": "nasubi",
+	"version": "1.0.0-beta.1-peltier",
+	"basedMisskeyVersion": "2024.8.0",
+	"codename": "peltier",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/p5r-dev/misskey-peltier.git"
